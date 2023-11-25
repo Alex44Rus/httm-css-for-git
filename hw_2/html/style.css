@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top {
+    padding-bottom: 96px;
+}
+.header-logo {
+    margin-top: 40px;
+}
+
+.text-logo {
+margin-left: 14px;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+.header-links {
+    margin-top: 51px;
+}
+.top-content {
+    margin-top: 96px;
+    }
+
+.title {
+    margin-bottom: 17px;
+}    
+
+.button {
+    margin-top: 37px;
+    padding: 15px 36px 16px 35px;
+
+}
+.button-link {
+    margin-top: 15px;
+    margin-bottom: 16px;
+    margin-left: 72px;
+}
+
+.top-logos {
+    padding-top: 97px;
+}
+
+
